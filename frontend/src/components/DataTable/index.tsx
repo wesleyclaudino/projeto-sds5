@@ -1,6 +1,4 @@
-import ImgDsDark from 'assets/img/ds-dark.svg'
-
-function NavBar() {
+function DataTable() {
     return (
         <div className="table-responsive">
             <table className="table table-striped table-sm">
@@ -90,4 +88,4 @@ function NavBar() {
     );
 }
 
-export default NavBar;
+export default DataTable;

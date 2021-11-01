@@ -1,6 +1,4 @@
-import ImgDsDark from 'assets/img/ds-dark.svg'
-
-function NavBar() {
+function Footer() {
     return (
         <div>
             <footer className="footer mt-auto py-3 bg-dark">
@@ -14,4 +12,4 @@ function NavBar() {
     );
 }
 
-export default NavBar;
+export default Footer;
